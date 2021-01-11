@@ -3,4 +3,4 @@ This repository contais the project that I have done for the course unit MNUM wh
 
 ## DESCRIPTION
 We where asked to analyse the concentration of a certain medically in the human body. 
-Using methods studied in course unity of MNUM.
+Using numerical methods studied in course unity of MNUM.
